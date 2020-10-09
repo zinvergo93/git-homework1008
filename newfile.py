@@ -1,1 +1,2 @@
-print('Hello online')
+print('Hello from local')
+
