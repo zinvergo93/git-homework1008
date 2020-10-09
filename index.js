@@ -1,1 +1,4 @@
-console.log('Hi there')
+
+console.log('Hi')   
+
+let name = 'Zac'
